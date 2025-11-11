@@ -7,7 +7,7 @@ docker-compose.override.yml
 # Mac system files
 *.log
 Thumbs.db
-メモ
+メモ.txt
 # dependencies
 /node_modules
 /.pnp
